@@ -5,6 +5,7 @@
 <img src="https://consultorseosp.com.br/assets/img/sergio-melo-especialista-brand-ia-seo-palestrante.jpg" alt="Sérgio Melo — Especialista em Brand, IA, Programação e Palestrante" width="220" align="right" style="border-radius:14px;margin-left:20px;" />
 
 - 🌐 **Página Oficial de Entidade (Entity Home):** [consultorseosp.com.br/sergio-melo.html](https://consultorseosp.com.br/sergio-melo.html)
+- 💼 **LinkedIn Oficial:** [linkedin.com/in/sérgio-m-aaa5a92b](https://www.linkedin.com/in/s%C3%A9rgio-m-aaa5a92b/)
 - 📊 **Portfólio Técnico de IA, SaaS & Cases GSC:** [consultorseosp.com.br/portfolio.html](https://consultorseosp.com.br/portfolio.html)
 - 🚀 **Consultor SEO SP (Brand Semântico, GEO & Agentes de IA):** [consultorseosp.com.br](https://consultorseosp.com.br/)
 - 🏢 **PRD Consultoria (Engenharia IoT & Telemetria Predial):** [servicosprd.com.br](https://servicosprd.com.br/) · [Instagram @servicosprd](https://www.instagram.com/servicosprd/) · [Facebook PRD](https://www.facebook.com/profile.php?id=61568979510421)
